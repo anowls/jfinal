@@ -1,0 +1,4 @@
+jdbcUrl = jdbc:mysql://localhost:3306/owl_blog
+user = root
+password = anowls38
+devMode = true
